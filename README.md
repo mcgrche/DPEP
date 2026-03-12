@@ -80,44 +80,14 @@ DPEP/
 ![Pipeline overview](assets/images/pipeline_overview.svg)
 
 Your current project already has a natural three-part story for GitHub presentation:
-1. **Prediction module** for multi-agent future forecasting. fileciteturn0file0
-2. **Differentiable motion planner** with ethical risk terms and optimization. fileciteturn0file1
-3. **Training pipeline** that jointly learns prediction and planning. fileciteturn0file2
+1. **Prediction module** for multi-agent future forecasting. 
+2. **Differentiable motion planner** with ethical risk terms and optimization. 
+3. **Training pipeline** that jointly learns prediction and planning. 
 
 That same structure is also reflected in the paper draft, where DPEP is presented as an integrated prediction-planning framework with learnable ethical weights. fileciteturn0file7
 
 ---
 
-## Quick start
-
-### 1) Clone the repository
-```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
-```
-
-### 2) Create a virtual environment
-```bash
-python -m venv .venv
-```
-
-### 3) Activate it
-**Windows (PowerShell)**
-```bash
-.venv\Scripts\Activate.ps1
-```
-
-**macOS / Linux**
-```bash
-source .venv/bin/activate
-```
-
-### 4) Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
----
 
 ## Minimal TODO before publishing
 
@@ -160,26 +130,7 @@ python train.py \
 
 ---
 
-## Repository preview
 
-![Repo structure](assets/images/repo_structure.svg)
-
----
-
-## Citation
-
-If you use this repository in academic work, cite the corresponding paper once available.
-
-```bibtex
-@article{gan2026dpep,
-  title={Learning Context-Dependent Ethical Motion Planning for Autonomous Vehicles},
-  author={Gan, Rui and Nan, Tiantong and Ma, Junyi and Li, Linheng and Qu, Xu and Ran, Bin},
-  journal={TBD},
-  year={2026}
-}
-```
-
----
 
 ## License
 
