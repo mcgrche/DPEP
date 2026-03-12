@@ -2,7 +2,7 @@
 
 A starter GitHub project template for an autonomous driving research repo focused on **ethics-aware prediction and planning**.
 
-![Project banner](assets/images/banner.svg)
+![Project banner](assets/images/phenomenon.png)
 
 ## What this repository is for
 
@@ -15,7 +15,7 @@ This repository is designed as a clean starting point for sharing:
 - dataset notes
 - reproducible instructions for others
 
-This template is tailored to a project structure consistent with your current work: a predictor module, a differentiable motion planner, and a training pipeline, matching the core components shown in your uploaded code and draft manuscript. fileciteturn0file0 fileciteturn0file1 fileciteturn0file2 fileciteturn0file7
+This template is tailored to a project structure consistent with your current work: a predictor module, a differentiable motion planner, and a training pipeline, matching the core components shown in your uploaded code and draft manuscript.
 
 ---
 
@@ -77,7 +77,7 @@ DPEP/
 
 ## Project overview
 
-![Pipeline overview](assets/images/pipeline_overview.svg)
+![Pipeline overview](assets/images/framework_final.jpg)
 
 Your current project already has a natural three-part story for GitHub presentation:
 1. **Prediction module** for multi-agent future forecasting. 
