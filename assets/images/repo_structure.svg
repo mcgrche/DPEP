@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+  <rect width="1200" height="620" fill="#ffffff"/>
+  <text x="60" y="60" fill="#111827" font-size="34" font-family="Arial, Helvetica, sans-serif" font-weight="700">Starter repository structure</text>
+  <text x="80" y="130" fill="#334155" font-size="24" font-family="Courier New, monospace">DPEP/</text>
+  <text x="110" y="175" fill="#334155" font-size="22" font-family="Courier New, monospace">├── assets/images/</text>
+  <text x="110" y="210" fill="#334155" font-size="22" font-family="Courier New, monospace">├── configs/</text>
+  <text x="110" y="245" fill="#334155" font-size="22" font-family="Courier New, monospace">├── data/raw/</text>
+  <text x="110" y="280" fill="#334155" font-size="22" font-family="Courier New, monospace">├── data/processed/</text>
+  <text x="110" y="315" fill="#334155" font-size="22" font-family="Courier New, monospace">├── docs/</text>
+  <text x="110" y="350" fill="#334155" font-size="22" font-family="Courier New, monospace">├── notebooks/</text>
+  <text x="110" y="385" fill="#334155" font-size="22" font-family="Courier New, monospace">├── results/</text>
+  <text x="110" y="420" fill="#334155" font-size="22" font-family="Courier New, monospace">├── scripts/</text>
+  <text x="110" y="455" fill="#334155" font-size="22" font-family="Courier New, monospace">├── src/models/</text>
+  <text x="110" y="490" fill="#334155" font-size="22" font-family="Courier New, monospace">├── src/planning/</text>
+  <text x="110" y="525" fill="#334155" font-size="22" font-family="Courier New, monospace">├── src/utils/</text>
+  <text x="110" y="560" fill="#334155" font-size="22" font-family="Courier New, monospace">└── README.md</text>
+</svg>
