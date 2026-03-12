@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420">
+  <rect width="1400" height="420" fill="#0f172a"/>
+  <rect x="60" y="60" width="1280" height="300" rx="28" fill="#111827" stroke="#334155" stroke-width="2"/>
+  <text x="90" y="165" fill="#e5e7eb" font-size="44" font-family="Arial, Helvetica, sans-serif" font-weight="700">DPEP GitHub Starter</text>
+  <text x="90" y="220" fill="#cbd5e1" font-size="26" font-family="Arial, Helvetica, sans-serif">Differentiable Predictive Ethics-Aware Planner</text>
+  <text x="90" y="270" fill="#94a3b8" font-size="22" font-family="Arial, Helvetica, sans-serif">Replace this banner with your real teaser figure later</text>
+</svg>
